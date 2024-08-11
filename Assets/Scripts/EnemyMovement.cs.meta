@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: acf289eeef4db32449d664a743d3a81b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelSpawner: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - explosionPrefab1: {fileID: 1845955007268882, guid: 67a684e320da6e7439421a07e3fa265c,
+      type: 3}
+  - explosionPrefab2: {fileID: 100006, guid: e076683e0305e35498b8e8834978c0fa, type: 3}
+  - explosionPrefab3: {fileID: 100008, guid: 875c9bcb71a8d7f46a64a8a7df5987e0, type: 3}
+  - explosionPrefab4: {instanceID: 0}
+  - explosionPrefab5: {instanceID: 0}
+  - explosionPrefab6: {instanceID: 0}
+  - explosionPrefab7: {instanceID: 0}
+  - explosionPrefab8: {instanceID: 0}
+  - explosionPrefab9: {instanceID: 0}
+  - explosionPrefab10: {instanceID: 0}
+  - sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
